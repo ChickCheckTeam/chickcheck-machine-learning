@@ -1,2 +1,0 @@
-Link Dataset
-https://www.kaggle.com/code/efoeetienneblavo/chicken-disease-detection-acc-0-987
