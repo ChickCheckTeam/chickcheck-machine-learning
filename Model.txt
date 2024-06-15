@@ -1,0 +1,4 @@
+To access the trained model in h5 format and converted into TensorFlow.Js, can open the following link:
+
+https://drive.google.com/drive/folders/1R3uBkADSi_G8j-u7Vz2uew3Z5ynCmesQ?usp=drive_link
+
