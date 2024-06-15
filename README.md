@@ -1,5 +1,14 @@
 # ChickCheck Machine Learning Documentation
 ChcikCheck applies the machine learning model as technology in image classification to determine the type of disease that infects chickens. Classification of disease types was carried out based on images of chicken droppings.
+#### This is the step to build the model
+- Collect a data set of chicken droppings
+- Split the data set into 90% for the training set and 10% for the validation set
+- Create a machine learning model with CNN (Convolutional Neural Network) using the Xception architecture as the base model
+- Train the model
+- Evaluation of machine learning models
+- Test the model with new test data that the model has never seen before
+- Convert model in TensorFlow.Js
+- Deploy models using API
 
 ## Dataset
 The dataset used in this project is a collection of images of chicken droppings. The number of datasets used is 2.361 which is divided into 4 classes
